@@ -141,6 +141,7 @@ a.source:visited {
 .marker-active {
   background-position: -72px 0 !important;
   color: #7CB7D9;
+  background-color: #7CB7D9;
 }
 
 /* Storymap logo image above the title */
